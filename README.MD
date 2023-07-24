@@ -1,4 +1,4 @@
-# Mi README de practica de React TP-REACT-EJ4 ❄
+# TP-REACT-EJ4 ❄
 
 Este **README** se trata del ejercio 4 de la tarea de react, en el cual tenemos que crear una lista de tareas.
 
