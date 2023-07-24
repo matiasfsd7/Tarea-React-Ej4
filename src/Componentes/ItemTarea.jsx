@@ -4,7 +4,7 @@ import { Button, ListGroup } from "react-bootstrap";
 const ItemTarea = () => {
   return (
     <>
-      <ListGroup.Item className="d-flex justify-content-between">
+      <ListGroup.Item className="d-flex justify-content-between mt-3">
         Tarea de prueba <Button variant="danger">Borrar</Button>
       </ListGroup.Item>
     </>
